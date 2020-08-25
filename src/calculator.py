@@ -1,1 +1,2 @@
-cacl is there
+def calculator()
+    print("Hi,i am empty calculator")
